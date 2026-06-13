@@ -1,0 +1,4 @@
+pandas-Data Manipulation
+numpy-Numerical calculation
+matplotlib-Graphs and charts
+seaborn-Data visualisation
